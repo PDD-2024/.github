@@ -1,4 +1,4 @@
-# MADR 3081W - Programming Design and Analysis
+# MADR 3081W - Programming Design and Development
 
 **Language of Instruction:** English
 
