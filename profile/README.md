@@ -11,7 +11,7 @@
 
 **Professors:**
 - García Barragán, Álvaro ([alvaro.gbarragan@upm.es](mailto:alvaro.gbarragan@upm.es))
-- Fernández Lagos, Pablo ([pablo.ferlagos@alumnos.upm.es](mailto:pablo.ferlagos@upm.es))
+- Fernández Lagos, Pablo ([pablo.ferlagos@upm.es](mailto:pablo.ferlagos@upm.es))
 - Artiñano Muñoz, Rafael ([rafael.artinano.munoz@upm.es](mailto:rafael.artinano.munoz@upm.es))
 
 Principles of programming design/analysis. Concepts in software development. Uses a programming project to illustrate key ideas in program design/development, data structures, debugging, files, I/O, testing, and coding standards.
